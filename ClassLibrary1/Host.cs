@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     class Host
     {
-        public int HostKey { get; set; }
+        public int HostKey { get; }
         public string Name { get; set; }
         public string LastName { get; set; }
         public string Mail { get; set; }

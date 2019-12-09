@@ -16,8 +16,8 @@ namespace ClassLibrary1
         public int BankAcountNumber { get; set; }
         public override  string ToString()
         {
-            return "Bank Name:" + BankName + "Bank Number" + BankNumber + "Branch Number" + BranchNumber + "BranchAddress" +
-                BranchCity + BranchAddress +  "Bank Acount Number" + BankAcountNumber;
+            return "Bank Name: " + BankName + "Bank Number: " + BankNumber + "Branch Number: " + BranchNumber + "BranchAddress: " +
+                BranchCity + BranchAddress +  "Bank Acount Number: " + BankAcountNumber;
 
         }
 
