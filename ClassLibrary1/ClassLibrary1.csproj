@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankAccount.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Configuration.cs" />
     <Compile Include="GuestRequest.cs" />
     <Compile Include="Host.cs" />
